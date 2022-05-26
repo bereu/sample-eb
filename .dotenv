@@ -1,0 +1,9 @@
+DEV_DB_NAME=ebdb
+DEV_DB_HOST=aaz3wjzfvx06ij.cefxmbqwtulo.ap-northeast-1.rds.amazonaws.com
+DEV_DB_USER=admin
+DEV_DB_PASS=qwer1234
+
+PROD_DB_NAME=ebdb
+PROD_DB_HOST=aaz3wjzfvx06ij.cefxmbqwtulo.ap-northeast-1.rds.amazonaws.com
+PROD_DB_USER=admin
+PROD_DB_PASS=qwer1234
